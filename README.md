@@ -11,6 +11,7 @@ This project demonstrates how **image contours** can be extracted and **reconstr
 
 ## 📂 Project Structure
 
+.
 ├── ball3x3.jpg
 ├── elephant3x3.png
 ├── polar3x3.jpg
@@ -19,6 +20,9 @@ This project demonstrates how **image contours** can be extracted and **reconstr
 ├── epycycle_draw.py
 ├── imgcoordinates.txt
 
+yaml
+Copy
+Edit
 
 - `contourdetection.py` – Detects image contours and extracts their coordinates.
 - `epycycle_draw.py` – Visualizes contours using Fourier epicycles.
